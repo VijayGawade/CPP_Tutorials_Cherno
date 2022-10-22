@@ -3,9 +3,14 @@
 
 #include <iostream>
 
+#include "DataTypes.h"
+
 int main()
 {
     std::cout << "Hello World!\n";
+
+    DataTypes *dt = new DataTypes;
+    dt->displayAllDataTypes();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
