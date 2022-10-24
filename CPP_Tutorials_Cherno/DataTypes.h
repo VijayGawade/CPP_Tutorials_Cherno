@@ -2,11 +2,14 @@
 
 #include<iostream>
 
+
+
 class DataTypes
 {
 	// Charactor data-types
 	char ch = 'A';
 	char numChar = 65;
+	const char* str = "Hello World!";
 
 	// Integert
 	short int a1;
