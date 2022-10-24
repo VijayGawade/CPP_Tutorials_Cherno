@@ -18,12 +18,12 @@
     <ClCompile Include="CPP_Tutorials_Cherno.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="Src\Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DataTypes.h">
+    <ClInclude Include="Src\DataTypes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
